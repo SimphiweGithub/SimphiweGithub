@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Simphiwe!
 
-<!--
-**SimphiweGithub/SimphiweGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I'm a passionate developer interested in [Cybersecurity | IT | Web Development | AI| Software Engineering].
 
-Here are some ideas to get you started:
+🌱 Currently learning: Spring Framework | React | .NET | Docker  
+🔧 Tools & Technologies: Java, MySQL, HTML/CSS, Git, C#, IntelliJ, VS Code,Visual Studio, Azure, Javascript/Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- 🔐 CLI Task Management System
+- 📊 AI teacher planner
+- 👨‍🏫 Java Console Password Management Project
+
+📫 How to reach me:
+- LinkedIn: [your link here]
+- Email: Simphiwe0105@gmail.conm
+
+⚡ Fun Fact: I can turn coffee into code ☕➡💻
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimphiweGithub&show_icons=true&theme=radical)
