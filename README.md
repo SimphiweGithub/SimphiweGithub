@@ -11,7 +11,7 @@
 - 👨‍🏫 Java Console Password Management Project
 
 📫 How to reach me:
-- LinkedIn: [your link here]
+- LinkedIn: (https://www.linkedin.com/in/simphiwe-khumalo-464592305/)
 - Email: Simphiwe0105@gmail.conm
 
 ⚡ Fun Fact: I can turn coffee into code ☕➡💻
