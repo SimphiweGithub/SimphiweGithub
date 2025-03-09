@@ -16,4 +16,3 @@
 
 ⚡ Fun Fact: I can turn coffee into code ☕➡💻
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimphiweGithub&show_icons=true&theme=radical)
