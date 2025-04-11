@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Simphiwe!
 
-💡 I'm a passionate developer interested in [Cybersecurity | IT | Web Development | AI| Software Engineering].
+💡 I'm a passionate developer interested in [Cybersecurity | IT | Web Development | Network Engineering| Software Engineering].
 
 🌱 Currently learning: Spring Framework | React | .NET | Docker  
 🔧 Tools & Technologies: Java, MySQL, HTML/CSS, Git, C#, IntelliJ, VS Code,Visual Studio, Azure, Javascript/Typescript
