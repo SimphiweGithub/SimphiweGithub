@@ -2,7 +2,7 @@
 
 💡 I'm a passionate developer interested in [Cybersecurity | IT | Web Development | Network Engineering| Software Engineering].
 
-🌱 Currently learning: Spring Framework | React | .NET | Docker  
+🌱 Currently learning:  React | .NET | Docker  
 🔧 Tools & Technologies: Java, MySQL, HTML/CSS, Git, C#, IntelliJ, VS Code,Visual Studio, Azure, Javascript/Typescript
 
 🚀 Projects:
